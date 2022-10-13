@@ -34,3 +34,14 @@
 label {
     padding-bottom: 2px;
 }
+
+.header {
+    background-color: #181818ea;
+}
+
+#footer {   
+    padding-top: 15px;
+    background-color: #181818ea;
+    padding-bottom: 15px;
+}
+
