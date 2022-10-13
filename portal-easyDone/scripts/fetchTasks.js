@@ -13,7 +13,7 @@ async function renderUsers() {
     let html = '';
     users.forEach(user => {
         let htmlSegment = `<div class="col">
-        <div class="card">
+        <div class="card text-white bg-dark mb-3">
           <div class="card-body">
             <h5 class="card-title">${user.taskTitle}</h5>
             <p class="card-text">${user.taskLocation} <br>

@@ -21,11 +21,18 @@ body {
     color: rgb(237, 237, 237);
 }
 
-#btn-login, #btn-signup, #btn-update{
+#btn-login, #btn-signup, #btn-update, #btn-new-task{
     background-color: green;
     font-weight: bold;
     border: none;
-}  
+}
+
+#btn-new-task {
+    margin-right: 15px;
+    font-weight: normal;
+    
+}
+
 
 #btn-cancel {
     background-color: rgb(129, 129, 129);
